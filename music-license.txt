@@ -33,3 +33,4 @@ The Mana World - The Forest.ogg            | (????)                             
 White-Christmas.ogg                        | Jose S. & Dakota. D (Chicka-Maria) | GPLv2, cc-sa-3           | (????)
 The Mana World - Dimonds Cove.ogg          | Aasif Chaudry                      | GPLv2, cc-sa-3           | 2008
 The Mana World - Ice Continent.ogg         | Aasif Chaudry                      | GPLv2, cc-sa-3           | 2008
+thunderstorm.ogg                           | Wushin                             | CC0                      | 2011
